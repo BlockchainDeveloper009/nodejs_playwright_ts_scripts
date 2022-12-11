@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_playwright_ts_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainDeveloper009/nodejs_playwright_ts_scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainDeveloper009/nodejs_playwright_ts_scripts/issues"
+  },
+  "homepage": "https://github.com/BlockchainDeveloper009/nodejs_playwright_ts_scripts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
